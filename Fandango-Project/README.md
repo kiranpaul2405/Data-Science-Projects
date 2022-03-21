@@ -1,5 +1,5 @@
 Overview:
-Several online sites provide reviews and ratings for movies that are released. Some of them sell tickets along with providing these ratings. The goal of this project is to check if one such site(www.fandango.com) is artificially boosting up ratings of movies so that their tickets get sold more often through data visualizations.
+Several online sites provide reviews and ratings for movies that are released. Some of them sell tickets along with providing these ratings. The goal of this project is to check if one such site(www.fandango.com) is artificially boosting up ratings of movies so that their tickets get sold more often through data visualizations. Part 1 of this project will explore how fandango's stars displayed in their page corresponds to their actual rating. Part 2 will pit these fandango ratings against ratings by other sites.
 
 Datasets used:
 
