@@ -1,3 +1,3 @@
 # Data-Science-Projects
-Repository for storing source code for Data Science based projects
+Repository for storing source code of Data Science based projects
 
