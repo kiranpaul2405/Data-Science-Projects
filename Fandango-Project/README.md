@@ -7,7 +7,7 @@ There are 2 main datasets used in this project. The first dataset has the rating
 
 Conclusion:
 
-It has been viewed and verified through visualizations that Fandango is indeed rating movies higher so that their ticket sales are not affected by the movie ratings. Fandango seems not to be harsh on movies that are rated low on other sites.
+It has been viewed and verified through visualizations that Fandango is indeed rating movies higher so that their ticket sales are not affected by the movie ratings. Additionally, Fandango's own stars provided are greater than their actual ratings in many cases. This discrepancy can be forgiven as fractional ratings are difficult to be represented using stars and are sometimes rounded.Still, Fandango seems not to be harsh on movies that are rated low on other sites.
 
 How to download and run the project:
 
