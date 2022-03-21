@@ -8,3 +8,13 @@ There are 2 main datasets used in this project. The first dataset has the rating
 Conclusion:
 
 It has been viewed and verified through visualizations that Fandango is indeed rating movies higher so that their ticket sales are not affected by the movie ratings. Fandango seems not to be harsh on movies that are rated low on other sites.
+
+How to download and run the project:
+
+1.Download the entire project.
+2.Run each file to view visualizations.
+3.Before running the file make sure that the correct filepath is provided while importing the dataset in code.
+In each file, the statement for importing the dataset is present.
+This statement is of the form - 
+pd.read_csv(r'filepath/datasetname.csv')
+Here filepath should be the actual filepath where you have downloaded and stored the dataset.
